@@ -26,6 +26,7 @@ blockquote {
 	border: 10px solid #C2CCCA;
 	width: 250px;
 	box-sizing: border-box;
+	margin : 20px 40px ;
 }
 
 aside {
