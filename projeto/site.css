@@ -71,6 +71,12 @@ aside h1{
 	font-size: 30px;
 	margin-bottom: 25px;
 }
+strong{
+	font-weight: bold;
+}
+em {
+	font-style: italic;
+}
 h2 {
 	font-size: 30px;
 }
